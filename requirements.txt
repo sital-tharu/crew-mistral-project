@@ -1,0 +1,9 @@
+crewai>=0.20.0
+langchain>=0.1.14
+langchain-community>=0.0.30
+langchain-ollama>=0.0.6
+ollama
+python>=3.10
+# Always start Python like this in your terminal: $env:PYTHONUTF8=1
+
+
